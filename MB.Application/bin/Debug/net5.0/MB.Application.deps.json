@@ -1073,6 +1073,7 @@
       },
       "MB.Domain/1.0.0": {
         "dependencies": {
+          "MB.Application.Contracts": "1.0.0",
           "Microsoft.EntityFrameworkCore": "5.0.1",
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.1"
         },

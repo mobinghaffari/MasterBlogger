@@ -13,3 +13,6 @@ C:\Users\Mobin\source\repos\MasterBlogger\MB.Domain\obj\Debug\net5.0\MB.Domain.p
 C:\Users\Mobin\source\repos\MasterBlogger\MB.Domain\bin\Debug\net5.0\MB.Domain.runtimeconfig.json
 C:\Users\Mobin\source\repos\MasterBlogger\MB.Domain\bin\Debug\net5.0\MB.Domain.runtimeconfig.dev.json
 C:\Users\Mobin\source\repos\MasterBlogger\MB.Domain\obj\Debug\net5.0\MB.Domain.genruntimeconfig.cache
+C:\Users\Mobin\source\repos\MasterBlogger\MB.Domain\bin\Debug\net5.0\MB.Application.Contracts.dll
+C:\Users\Mobin\source\repos\MasterBlogger\MB.Domain\bin\Debug\net5.0\MB.Application.Contracts.pdb
+C:\Users\Mobin\source\repos\MasterBlogger\MB.Domain\obj\Debug\net5.0\MB.Domain.csproj.CopyComplete

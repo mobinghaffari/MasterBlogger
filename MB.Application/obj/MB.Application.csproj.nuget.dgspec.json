@@ -192,7 +192,11 @@
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\Mobin\\source\\repos\\MasterBlogger\\MB.Application.Contracts\\MB.Application.Contracts.csproj": {
+                "projectPath": "C:\\Users\\Mobin\\source\\repos\\MasterBlogger\\MB.Application.Contracts\\MB.Application.Contracts.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
