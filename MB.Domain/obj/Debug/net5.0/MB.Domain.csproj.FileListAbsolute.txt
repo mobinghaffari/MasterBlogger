@@ -1,0 +1,15 @@
+C:\Users\Mobin\source\repos\MasterBlogger\MB.Domain\bin\Debug\net5.0\MB.Domain.deps.json
+C:\Users\Mobin\source\repos\MasterBlogger\MB.Domain\bin\Debug\net5.0\MB.Domain.dll
+C:\Users\Mobin\source\repos\MasterBlogger\MB.Domain\bin\Debug\net5.0\ref\MB.Domain.dll
+C:\Users\Mobin\source\repos\MasterBlogger\MB.Domain\bin\Debug\net5.0\MB.Domain.pdb
+C:\Users\Mobin\source\repos\MasterBlogger\MB.Domain\obj\Debug\net5.0\MB.Domain.csproj.AssemblyReference.cache
+C:\Users\Mobin\source\repos\MasterBlogger\MB.Domain\obj\Debug\net5.0\MB.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mobin\source\repos\MasterBlogger\MB.Domain\obj\Debug\net5.0\MB.Domain.AssemblyInfoInputs.cache
+C:\Users\Mobin\source\repos\MasterBlogger\MB.Domain\obj\Debug\net5.0\MB.Domain.AssemblyInfo.cs
+C:\Users\Mobin\source\repos\MasterBlogger\MB.Domain\obj\Debug\net5.0\MB.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Mobin\source\repos\MasterBlogger\MB.Domain\obj\Debug\net5.0\MB.Domain.dll
+C:\Users\Mobin\source\repos\MasterBlogger\MB.Domain\obj\Debug\net5.0\ref\MB.Domain.dll
+C:\Users\Mobin\source\repos\MasterBlogger\MB.Domain\obj\Debug\net5.0\MB.Domain.pdb
+C:\Users\Mobin\source\repos\MasterBlogger\MB.Domain\bin\Debug\net5.0\MB.Domain.runtimeconfig.json
+C:\Users\Mobin\source\repos\MasterBlogger\MB.Domain\bin\Debug\net5.0\MB.Domain.runtimeconfig.dev.json
+C:\Users\Mobin\source\repos\MasterBlogger\MB.Domain\obj\Debug\net5.0\MB.Domain.genruntimeconfig.cache
