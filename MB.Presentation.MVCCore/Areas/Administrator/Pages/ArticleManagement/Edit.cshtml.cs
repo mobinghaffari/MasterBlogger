@@ -1,5 +1,7 @@
+using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Threading.Tasks;
 using MB.Application.Contracts.Article;
 using MB.Application.Contracts.ArticleCategory;
 using Microsoft.AspNetCore.Mvc;
@@ -8,27 +10,28 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 
 namespace MB.Presentation.MVCCore.Areas.Administrator.Pages.ArticleManagement
 {
-    public class CreateModel : PageModel
+    public class EditModel : PageModel
     {
+        [BindProperty]public EditArticle Article { get; set; }
         public List<SelectListItem> ArticleCategories { get; set; }
-        private readonly IArticleCategoryApplication _articleCategoryApplication;
         private readonly IArticleApplication _articleApplication;
+        private readonly IArticleCategoryApplication _articleCategoryApplication;
 
-        public CreateModel(IArticleCategoryApplication articleCategoryApplication, IArticleApplication articleApplication)
+        public EditModel(IArticleApplication articleApplication, IArticleCategoryApplication articleCategoryApplication)
         {
-            _articleCategoryApplication = articleCategoryApplication;
             _articleApplication = articleApplication;
+            _articleCategoryApplication = articleCategoryApplication;
         }
-        public void OnGet()
+        public void OnGet(long id)
         {
-            _articleCategoryApplication.List()
+            Article = _articleApplication.Get(id);
+            ArticleCategories = _articleCategoryApplication.List()
                 .Select(x => new SelectListItem(x.Title, x.Id.ToString())).ToList();
-
         }
 
-        private RedirectToPageResult OnPost(CreateArticle command)
+        public RedirectToPageResult OnPost()
         {
-            _articleApplication.Create(command);
+            _articleApplication.Edit(Article);
             return RedirectToPage("./List");
         }
     }
