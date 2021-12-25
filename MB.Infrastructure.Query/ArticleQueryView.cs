@@ -10,6 +10,7 @@ namespace MB.Infrastructure.Query
         public string ArticleCategory { get; set; }
         public string CreationDate { get; set; }
         public string Image { get; set; }
+        public string Content { get; set; }
     }
 
 }
