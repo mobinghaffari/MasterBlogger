@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "noAgK6FpdJflSCq0ZCxba2KVTRw0psZjUg6oZzkfArhZIhx/BiFF3eODU3fOffr5TKPKXK95HNNXPIh6p6/4qg==",
+  "dgSpecHash": "e+KNHxVT1HXdwLllKV3RBj1QkcjCUlafAnMZyhmG66RHDULzDNDKtICmDcCfsqIe2K1jcsBJT6HPB471lZFjTA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mobin\\source\\repos\\MasterBlogger\\MB.Presentation.MVCCore\\MB.Presentation.MVCCore.csproj",
+  "projectFilePath": "C:\\Users\\Mobin\\source\\repos\\MasterBlogger\\MB.Infrastructure.Query\\MB.Infrastructure.Query.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Mobin\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
