@@ -4,27 +4,21 @@ using System.Globalization;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using _01_Framework.Infrastructure;
 using MB.Application.Contracts.Comment;
 using MB.Domain.CommentAgg;
 using Microsoft.EntityFrameworkCore;
 
 namespace MB.Infrastructure.EFCore.Repository
 {
-    public class CommentRepository:ICommentRepository
+    public class CommentRepository:BaseRepository<long,Comment> ,ICommentRepository
     {
         private readonly MasterBloggerContext _context;
 
-        public CommentRepository(MasterBloggerContext context)
+        public CommentRepository(MasterBloggerContext context) : base(context)
         {
             _context = context;
         }
-
-        public void CreateAndSave(Comment entity)
-        {
-            _context.Comments.Add(entity);
-            Save();
-        }
-
         public List<CommentViewModel> GetList()
         {
             return _context.Comments.Include(x => x.Article).Select(x => new CommentViewModel()
@@ -39,14 +33,6 @@ namespace MB.Infrastructure.EFCore.Repository
             }).ToList();
         }
 
-        public Comment Get(long id)
-        {
-            return _context.Comments.FirstOrDefault(x => x.Id == id);
-        }
-
-        public void Save()
-        {
-            _context.SaveChanges();
-        }
+        
     }
 }

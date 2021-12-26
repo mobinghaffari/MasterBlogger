@@ -2,7 +2,6 @@ C:\Users\Mobin\source\repos\MasterBlogger\MB.Application.Contracts\bin\Debug\net
 C:\Users\Mobin\source\repos\MasterBlogger\MB.Application.Contracts\bin\Debug\net5.0\MB.Application.Contracts.dll
 C:\Users\Mobin\source\repos\MasterBlogger\MB.Application.Contracts\bin\Debug\net5.0\ref\MB.Application.Contracts.dll
 C:\Users\Mobin\source\repos\MasterBlogger\MB.Application.Contracts\bin\Debug\net5.0\MB.Application.Contracts.pdb
-C:\Users\Mobin\source\repos\MasterBlogger\MB.Application.Contracts\obj\Debug\net5.0\MB.Application.Contracts.csproj.AssemblyReference.cache
 C:\Users\Mobin\source\repos\MasterBlogger\MB.Application.Contracts\obj\Debug\net5.0\MB.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Mobin\source\repos\MasterBlogger\MB.Application.Contracts\obj\Debug\net5.0\MB.Application.Contracts.AssemblyInfoInputs.cache
 C:\Users\Mobin\source\repos\MasterBlogger\MB.Application.Contracts\obj\Debug\net5.0\MB.Application.Contracts.AssemblyInfo.cs
@@ -13,3 +12,4 @@ C:\Users\Mobin\source\repos\MasterBlogger\MB.Application.Contracts\obj\Debug\net
 C:\Users\Mobin\source\repos\MasterBlogger\MB.Application.Contracts\bin\Debug\net5.0\MB.Application.Contracts.runtimeconfig.json
 C:\Users\Mobin\source\repos\MasterBlogger\MB.Application.Contracts\bin\Debug\net5.0\MB.Application.Contracts.runtimeconfig.dev.json
 C:\Users\Mobin\source\repos\MasterBlogger\MB.Application.Contracts\obj\Debug\net5.0\MB.Application.Contracts.genruntimeconfig.cache
+C:\Users\Mobin\source\repos\MasterBlogger\MB.Application.Contracts\obj\Debug\net5.0\MB.Application.Contracts.csproj.AssemblyReference.cache

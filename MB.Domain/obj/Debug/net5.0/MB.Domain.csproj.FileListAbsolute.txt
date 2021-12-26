@@ -16,3 +16,5 @@ C:\Users\Mobin\source\repos\MasterBlogger\MB.Domain\obj\Debug\net5.0\MB.Domain.g
 C:\Users\Mobin\source\repos\MasterBlogger\MB.Domain\bin\Debug\net5.0\MB.Application.Contracts.dll
 C:\Users\Mobin\source\repos\MasterBlogger\MB.Domain\bin\Debug\net5.0\MB.Application.Contracts.pdb
 C:\Users\Mobin\source\repos\MasterBlogger\MB.Domain\obj\Debug\net5.0\MB.Domain.csproj.CopyComplete
+C:\Users\Mobin\source\repos\MasterBlogger\MB.Domain\bin\Debug\net5.0\01_Framework.dll
+C:\Users\Mobin\source\repos\MasterBlogger\MB.Domain\bin\Debug\net5.0\01_Framework.pdb

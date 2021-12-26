@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Security.Cryptography.X509Certificates;
 using MB.Domain.ArticleCategoryAgg.Exceptions;
 
 namespace MB.Domain.ArticleCategoryAgg.Services
@@ -13,7 +14,7 @@ namespace MB.Domain.ArticleCategoryAgg.Services
         }
         public void CheckThatThisRecordAlreadyExists(string title)
         {
-            if (_articleCategoryRepository.Exists(title))
+            if (_articleCategoryRepository.Exist(x=>x.Title==title))
                 throw new DuplicatedRecordException("This record already exists in database");
         }
     }

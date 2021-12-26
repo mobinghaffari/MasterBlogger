@@ -15,7 +15,10 @@ C:\Users\Mobin\source\repos\MasterBlogger\MB.Infrastructure.Core\obj\Debug\net5.
 C:\Users\Mobin\source\repos\MasterBlogger\MB.Infrastructure.Core\obj\Debug\net5.0\MB.Infrastructure.Core.AssemblyInfoInputs.cache
 C:\Users\Mobin\source\repos\MasterBlogger\MB.Infrastructure.Core\obj\Debug\net5.0\MB.Infrastructure.Core.AssemblyInfo.cs
 C:\Users\Mobin\source\repos\MasterBlogger\MB.Infrastructure.Core\obj\Debug\net5.0\MB.Infrastructure.Core.csproj.CoreCompileInputs.cache
-C:\Users\Mobin\source\repos\MasterBlogger\MB.Infrastructure.Core\obj\Debug\net5.0\MB.Infrastructure.Core.csproj.CopyComplete
 C:\Users\Mobin\source\repos\MasterBlogger\MB.Infrastructure.Core\obj\Debug\net5.0\MB.Infrastructure.Core.dll
 C:\Users\Mobin\source\repos\MasterBlogger\MB.Infrastructure.Core\obj\Debug\net5.0\ref\MB.Infrastructure.Core.dll
 C:\Users\Mobin\source\repos\MasterBlogger\MB.Infrastructure.Core\obj\Debug\net5.0\MB.Infrastructure.Core.pdb
+C:\Users\Mobin\source\repos\MasterBlogger\MB.Infrastructure.Core\bin\Debug\net5.0\MB.Infrastructure.Query.dll
+C:\Users\Mobin\source\repos\MasterBlogger\MB.Infrastructure.Core\bin\Debug\net5.0\MB.Infrastructure.Query.pdb
+C:\Users\Mobin\source\repos\MasterBlogger\MB.Infrastructure.Core\bin\Debug\net5.0\01_Framework.dll
+C:\Users\Mobin\source\repos\MasterBlogger\MB.Infrastructure.Core\bin\Debug\net5.0\01_Framework.pdb

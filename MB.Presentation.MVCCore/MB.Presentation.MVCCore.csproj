@@ -5,6 +5,14 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Areas\Administrator\**" />
+    <Content Remove="Areas\Administrator\**" />
+    <EmbeddedResource Remove="Areas\Administrator\**" />
+    <None Remove="Areas\Administrator\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Areas\" />
     <Folder Include="wwwroot\vendor\font-awesome\less\" />
     <Folder Include="wwwroot\vendor\font-awesome\scss\" />
   </ItemGroup>

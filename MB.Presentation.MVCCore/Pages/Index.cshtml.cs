@@ -17,7 +17,7 @@ namespace MB.Presentation.MVCCore.Pages
 
         public void OnGet()
         {
-            Articles = _articleQuery.GetArticles();
+            Articles = _articleQuery.GetArticle();
         }
     }
 }
